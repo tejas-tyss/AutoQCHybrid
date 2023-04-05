@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<!-- report theme -->
+		<!-- standard, dark -->
+		<theme>dark</theme>
+
+		<!-- document encoding -->
+		<!-- defaults to UTF-8 -->
+		<encoding>UTF-8</encoding>
+
+		<!-- protocol for script and stylesheets -->
+		<!-- defaults to https -->
+		<protocol>https</protocol>
+		<!-- title of the document -->
+		<documentTitle>MoneyControl</documentTitle>
+
+		<!-- report name - displayed at top-nav -->
+		<!-- report name - displayed at top-nav -->
+
+		<!-- <reportName>Test Automation Report</reportName> -->
+		<reportName>
+		
+		 		 <![CDATA[
+         
+<!--          <img src="https://getlogo.net/wp-content/uploads/2020/04/moneycontrol-logo-vector.png"/>-->
+    
+        ]]>   
+			
+
+		</reportName>
+		<!-- location of charts in the test view -->
+		<!-- top, bottom -->
+		<testViewChartLocation>top</testViewChartLocation>
+
+	</configuration>
+</extentreports>
